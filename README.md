@@ -1,2 +1,2 @@
 # PasswordGENENERATOR
-This is a password generator create with python 
+This is a password generator created with python 
